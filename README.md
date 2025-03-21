@@ -5,8 +5,6 @@ A decentralized meme coin platform with a Next.js frontend and Ethereum smart co
 
 - [Preview Link](https://pumpflawk.vercel.app/)
 
-![/public/screenshot.png](https://github.com/iShinzoo/Meme-Coin-Launchpad/blob/main/pumpMock.png) *<!-- Add a screenshot if possible -->*
-
 ## ✨ Features  
 - Interactive Linear bonding curve mechanics  
 - Liquidity pool automation
@@ -28,8 +26,8 @@ A decentralized meme coin platform with a Next.js frontend and Ethereum smart co
 
 1. **Clone the repo**  
    ```
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/Immutal0/EVM-Token-Launchpad.git
+   cd EVM-Token-Launchpad
    ```
    
 2. **Install dependencies** 
@@ -78,8 +76,6 @@ A decentralized meme coin platform with a Next.js frontend and Ethereum smart co
    npx hardhat verify --network sepolia DEPLOYED_CONTRACT_ADDRESS "Constructor Arg 1"
    ```
 
-## 🤝 Contributing
-   - We welcome contributions! Check out our [CONTRIBUTING.md](https://github.com/iShinzoo/Meme-Coin-Launchpad/blob/main/CONTRIBUTING.md) for guidelines.
-
 ## 📞 Contact
-   - X: [@i_krsna4](https://x.com/i_krsna4).
+   - X: [@Immutal0_](https://x.com/Immutal0_)
+   - Telegram: [@Immutal0](https://t.me/Immutal0)
