@@ -26,7 +26,7 @@ A decentralized meme coin platform with a Next.js frontend and Ethereum smart co
 
 1. **Clone the repo**  
    ```
-   git clone https://github.com/Immutal0/EVM-Token-Launchpad.git
+   git clone https://github.com/insionCEO/EVM-Token-Launchpad.git
    cd EVM-Token-Launchpad
    ```
    
@@ -76,6 +76,3 @@ A decentralized meme coin platform with a Next.js frontend and Ethereum smart co
    npx hardhat verify --network sepolia DEPLOYED_CONTRACT_ADDRESS "Constructor Arg 1"
    ```
 
-## 📞 Contact
-   - X: [@Immutal0_](https://x.com/Immutal0_)
-   - Telegram: [@Immutal0](https://t.me/Immutal0)
