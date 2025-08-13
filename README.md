@@ -76,3 +76,4 @@ A decentralized meme coin platform with a Next.js frontend and Ethereum smart co
    npx hardhat verify --network sepolia DEPLOYED_CONTRACT_ADDRESS "Constructor Arg 1"
    ```
 
+**Telegram**: [@insionCEO](https://t.me/insionCEO)
